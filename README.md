@@ -1,5 +1,9 @@
 # CRAVE EDITOR - Grid Pattern Editor
 
+### ▶ [Open the live app](https://d4kine.github.io/behringer-crave-editor/)
+
+Runs entirely in your browser without install. Use **Chrome or Edge** for the live Web MIDI / SysEx features.
+
 A browser-based piano-roll pattern editor for the **Behringer Crave**. Draw a sequence in
 the grid, then export it as a SynthTribe `.seq` file, a byte-exact `.syx` SysEx dump, or
 send it straight to the hardware over **Web MIDI**. The Crave can then sequence a Behringer
